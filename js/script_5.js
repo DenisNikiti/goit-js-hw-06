@@ -7,7 +7,7 @@ inputEl.addEventListener("input", () => {
     }
     else {
         outputEl.textContent = inputEl.value
-        =
+        
     }
     
 
